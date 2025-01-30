@@ -1,4 +1,4 @@
-Nesta aula, iremos utilizar o CSS Grid no projeto, para os cards da página inicial, aprendendo as medias queries, além de introduzir o JavaScript com o conceito DOM e o método promises.
+Nesta aula, utilizamos o CSS Grid no projeto, para os cards da página inicial, aprendendo as medias queries, além de introduzir o JavaScript com o conceito DOM e o método promises.
 
 Nesta aula, abordamos o seguinte:
 
